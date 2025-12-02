@@ -1,0 +1,29 @@
+{
+  "assetType": "model",
+  "modelSettings": {
+    "camera-controls": "on",
+    "auto-rotate": "on",
+    "exposure": "2.5",
+    "shadow-intensity": "1",
+    "scale": "0.5",
+    "position-x": "0.12",
+    "position-y": "0.02",
+    "position-z": "0.45",
+    "rotation-x": "0",
+    "rotation-y": "0",
+    "rotation-z": "0",
+    "light-position-x": "1",
+    "light-position-y": "1",
+    "light-position-z": "5"
+  },
+  "videoSettings": {
+    "video-scale": "1",
+    "video-position-x": "0",
+    "video-position-y": "0",
+    "video-position-z": "0",
+    "video-rotation-x": "0",
+    "video-rotation-y": "0",
+    "video-rotation-z": "0"
+  },
+  "hotspots": []
+}
